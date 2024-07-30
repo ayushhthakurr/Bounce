@@ -1,16 +1,3 @@
 # bounce
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bounce Game is a fun and challenging mobile game built with Flutter. Players navigate a bouncing ball through various obstacles and levels, enjoying smooth animations and vibrant graphics. Perfect for quick play sessions, this game offers endless entertainment for all ages.
